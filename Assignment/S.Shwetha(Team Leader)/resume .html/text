@@ -1,0 +1,98 @@
+<html>
+	<head>
+	<title>project</title>
+	        <link href="css/bootstrap.css" rel="stylesheet" type="text/css"/>
+	        <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
+	        <script src="js/bootstrap.js" type="text/javascript"></script>
+	        <script src="js/bootstrap.min.js" type="text/javascript"></script>
+	        <link rel="stylesheet" type="text/css" href="resumestyle.css"/>
+	        
+	</head>
+	<body>
+	    
+	<div="container">
+	    <div id="a" class="row">
+	        <div class="col-lg-2 col-md-2">
+	           
+	           <img id="c" src="C:\Users\User\Desktop\5_6129531979139385005\assignment 1 - Copy\IMG_20220919_203804.jpg">
+	        </div>
+	        <div class="col-lg-10 col-md-10"><br/>
+	           <h2 id="b">Jefith J Shalin</h2>
+	           <h6 id="b1">Graphic designer & Web Developer</h6> 
+	        
+	           
+	           
+	           <input type="button" id="e"name="download" value="DownloadCV">
+	           <input type="button" id="f"name="hire" value="Hire Me">
+	        </div>   
+	           
+	       
+	    </div>
+	    <div class="row">
+	        <div class="col-lg-6 col-md-6"><br>
+	            <h4>About Me</h4>
+	            <p> Hello! I'M s.shwetha. I am Passionate about UI/UX Design and Web Design. I am skilled front-end developer and master of graphic design tools such as photoshop and sketch.</p>
+	        </div>
+	        <div class="col-lg-6 col-md-6"><br><br>
+	           <table>
+	            <tr>
+	                <td>Age</td>
+	                <td></td>
+	                <td></td>
+	                <td></td>
+	                <td>21</td>
+	            </tr>
+	            <tr>
+	                <td>Email</td>
+	                <td></td>
+	                <td></td>
+	                <td></td>
+	                <td>jefithjjs006@gmail.com</td>
+	            </tr>
+	            <tr>
+	                <td>phone</td>
+	                <td></td>
+	                <td></td><td></td>
+	                <td>8667450711</td>
+	            </tr>
+	            <tr>
+	                <td>Address</td>
+	                <td></td><td></td><td></td>
+	                <td>Marthandamnb, Tamil Nadu</td>
+	            </tr>
+	           </table>
+	        </div>
+	
+
+	    </div><h4>Professional Skills</h4><br>
+	    <div class="row">
+	        <div class="col-lg-6 col-md-6">
+	            <h6>HTML</h6>
+	            <input type="button" id="g"name="html" value="">
+	            <h6>CSS</h6>
+	            <input type="button" id="h"name="css" value="">
+	            <h6>JavaScript</h6>
+	            <input type="button" id="i"name="js" value="">
+	
+
+	
+
+	        </div>
+	        <div class="col-lg-6 col-md-6">
+	            <h6>Adobe Photoshop</h6>
+	            <input type="button" id="j"name="adobe" value="">
+	            <h6>Sketch</h6>
+	            <input type="button" id="k"name="sketch" value="">
+	            <h6>Adobe XD</h6>
+	            <input type="button" id="l"name="xd" value="">
+	
+
+	
+
+	
+
+	        </div>
+	    </div>
+	</div>
+	    </body>
+	</html>
